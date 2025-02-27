@@ -1,0 +1,54 @@
+/* Container for the question papers page */
+.question-papers-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .question-papers-container h2 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* List of question papers */
+  .question-papers-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  /* Each question paper item */
+  .question-paper-item {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling the links for downloading papers */
+  .question-paper-link {
+    display: block;
+    color: #007bff;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  /* Hover effect on the links */
+  .question-paper-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  /* Message when no question papers are available */
+  .no-papers {
+    color: #777;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  

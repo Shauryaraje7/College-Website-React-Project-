@@ -36,3 +36,63 @@
     transform: rotate(360deg);
   }
 }
+.subject-detail-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.resource-options {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.resource-btn {
+  background-color: #007bff;
+  color: white;
+  padding: 12px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 18px;
+  width: 80%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.resource-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Video Styling */
+.video-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.video-container iframe {
+  width: 100%;
+  max-width: 560px;
+  height: 315px;
+  margin-bottom: 20px;
+}
+
+/* Notes & Papers */
+.notes-container, .papers-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.notes-container a, .papers-container a {
+  display: block;
+  padding: 10px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.notes-container a:hover, .papers-container a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}

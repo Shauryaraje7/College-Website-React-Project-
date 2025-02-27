@@ -1,0 +1,74 @@
+/* Notes Page Container */
+.notes-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: url("../assets/background.jpg") no-repeat center center/cover;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5); /* Dark overlay for readability */
+  color: white;
+  text-align: center;
+}
+
+/* Heading Styles */
+.notes-container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.7);
+}
+
+/* List of Notes */
+.notes-list {
+  width: 80%;
+  max-width: 800px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.2); /* Light glass effect */
+  border-radius: 15px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px); /* Glassmorphism */
+  list-style: none;
+  margin-top: 20px;
+}
+
+/* Note Item Styling */
+.note-item {
+  padding: 12px 18px;
+  font-size: 18px;
+  transition: background-color 0.3s ease;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.note-item:last-child {
+  border-bottom: none;
+}
+
+.note-item a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  width: 100%;
+  transition: color 0.3s ease;
+}
+
+/* Hover Effects for Note Links */
+.note-item:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+}
+
+.note-item a:hover {
+  color: #4a90e2;
+}
+
+/* No Notes Available Message */
+.no-notes {
+  font-size: 18px;
+  color: gray;
+  margin-top: 20px;
+}

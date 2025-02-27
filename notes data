@@ -1,0 +1,296 @@
+  CSE2001: [
+    { name: "Lecture 1 - Introduction to Problem Solving", link: "https://drive.google.com/file/d/1CkGieAG73Abst3e0on4Brlu8HR29jYgv/view?usp=drive_link" },
+    { name: "Lecture 2 - Data Structures Basics", link: "/pdfs/cse2001_lecture2.pdf" },
+  ],
+  CSE2002: [
+    { name: "Lecture 1 - Data Structures and Algorithms Basics", link: "/pdfs/cse2002_lecture1.pdf" },
+  ],
+  CSE2003: [
+    { name: "Lecture 1 - Computer Architecture Basics", link: "/pdfs/cse2003_lecture1.pdf" },
+  ],
+  CSE2004: [
+    { name: "Lecture 1 - Theory of Computation", link: "/pdfs/cse2004_lecture1.pdf" },
+  ],
+  CSE3001: [
+    { name: "Lecture 1 - Database Management Systems Introduction", link: "/pdfs/cse3001_lecture1.pdf" },
+  ],
+  CSE3003: [
+    { name: "Lecture 1 - Operating Systems Basics", link: "/pdfs/cse3003_lecture1.pdf" },
+  ],
+  CSE3004: [
+    { name: "Lecture 1 - Design and Analysis of Algorithms", link: "/pdfs/cse3004_lecture1.pdf" },
+  ],
+  CSE3005: [
+    { name: "Lecture 1 - Software Engineering Principles", link: "/pdfs/cse3005_lecture1.pdf" },
+  ],
+  CSE3006: [
+    { name: "Lecture 1 - Computer Networks Overview", link: "/pdfs/cse3006_lecture1.pdf" },
+  ],
+  CSE3009: [
+    { name: "Lecture 1 - Parallel and Distributed Computing", link: "/pdfs/cse3009_lecture1.pdf" },
+  ],
+  CSE3011: [
+    { name: "Lecture 1 - Python Programming Basics", link: "/pdfs/cse3011_lecture1.pdf" },
+  ],
+  CSE4001: [
+    { name: "Lecture 1 - Internet and Web Programming", link: "/pdfs/cse4001_lecture1.pdf" },
+  ],
+  ECE2002: [
+    { name: "Lecture 1 - Digital Logic Design", link: "/pdfs/ece2002_lecture1.pdf" },
+  ],
+  ECE3004: [
+    { name: "Lecture 1 - Microprocessors and Microcontrollers", link: "/pdfs/ece3004_lecture1.pdf" },
+  ],
+  // Add all the other courses in a similar pattern
+  CCA3011: [
+    { name: "Lecture 1 - Internet of Things Overview", link: "/pdfs/cca3011_lecture1.pdf" },
+  ],
+  CHI2007: [
+    { name: "Lecture 1 - Healthcare Information Systems", link: "/pdfs/chi2007_lecture1.pdf" },
+  ],
+  CSA3004: [
+    { name: "Lecture 1 - Data Visualization Techniques", link: "/pdfs/csa3004_lecture1.pdf" },
+  ],
+  CSA3005: [
+    { name: "Lecture 1 - Cloud Computing Fundamentals", link: "/pdfs/csa3005_lecture1.pdf" },
+  ],
+  CSA3017: [
+    { name: "Lecture 1 - Knowledge Engineering Concepts", link: "/pdfs/csa3017_lecture1.pdf" },
+  ],
+  CSA4003: [
+    { name: "Lecture 1 - Data Mining and Warehousing", link: "/pdfs/csa4003_lecture1.pdf" },
+  ],
+  CSA4011: [
+    { name: "Lecture 1 - Information Retrieval and Web Search", link: "/pdfs/csa4011_lecture1.pdf" },
+  ],
+  CSD4002: [
+    { name: "Lecture 1 - Ethical Hacking Overview", link: "/pdfs/csd4002_lecture1.pdf" },
+  ],
+  CSD4008: [
+    { name: "Lecture 1 - Cyber Security Framework", link: "/pdfs/csd4008_lecture1.pdf" },
+  ],
+  CSD5002: [
+    { name: "Lecture 1 - Virtualization Essentials", link: "/pdfs/csd5002_lecture1.pdf" },
+  ],
+  CSD5008: [
+    { name: "Lecture 1 - Forensic Science Introduction", link: "/pdfs/csd5008_lecture1.pdf" },
+  ],
+  CSE3008: [
+    { name: "Lecture 1 - Soft Computing Basics", link: "/pdfs/cse3008_lecture1.pdf" },
+  ],
+  CSE3010: [
+    { name: "Lecture 1 - Computer Vision Overview", link: "/pdfs/cse3010_lecture1.pdf" },
+  ],
+  CSE3012: [
+    { name: "Lecture 1 - Mobile Application Development", link: "/pdfs/cse3012_lecture1.pdf" },
+  ],
+  CSE3013: [
+    { name: "Lecture 1 - Agile Software Development", link: "/pdfs/cse3013_lecture1.pdf" },
+  ],
+  CSE3014: [
+    { name: "Lecture 1 - Medical Imaging Techniques", link: "/pdfs/cse3014_lecture1.pdf" },
+  ],
+  CSE3015: [
+    { name: "Lecture 1 - AWS Cloud Practitioner", link: "/pdfs/cse3015_lecture1.pdf" },
+  ],
+  CSE3016: [
+    { name: "Lecture 1 - AWS Solution Architect", link: "/pdfs/cse3016_lecture1.pdf" },
+  ],
+  CSE3017: [
+    { name: "Lecture 1 - Salesforce Overview", link: "/pdfs/cse3017_lecture1.pdf" },
+  ],
+  CSE4003: [
+    { name: "Lecture 1 - Big Data Analytics", link: "/pdfs/cse4003_lecture1.pdf" },
+  ],
+  CSE4005: [
+    { name: "Lecture 1 - Machine Learning Concepts", link: "/pdfs/cse4005_lecture1.pdf" },
+  ],
+  CSE4012: [
+    { name: "Lecture 1 - Software Defined Networks", link: "/pdfs/cse4012_lecture1.pdf" },
+  ],
+  CSE4016: [
+    { name: "Lecture 1 - Software Project Management", link: "/pdfs/cse4016_lecture1.pdf" },
+  ],
+  CSE4017: [
+    { name: "Lecture 1 - Software Testing", link: "/pdfs/cse4017_lecture1.pdf" },
+  ],
+  CSG2001: [
+    { name: "Lecture 1 - AR and VR Basics", link: "/pdfs/csg2001_lecture1.pdf" },
+  ],
+  ECE4007: [
+    { name: "Lecture 1 - Wireless Sensor Networks", link: "/pdfs/ece4007_lecture1.pdf" },
+  ],
+  ECE4010: [
+    { name: "Lecture 1 - Embedded Systems Overview", link: "/pdfs/ece4010_lecture1.pdf" },
+  ],
+  ECE6012: [
+    { name: "Lecture 1 - Pattern Recognition and Image Analysis", link: "/pdfs/ece6012_lecture1.pdf" },
+  ],
+  MAT2009: [
+    { name: "Lecture 1 - Applied Cryptography", link: "/pdfs/mat2009_lecture1.pdf" },
+  ],
+  MAT5004: [
+    { name: "Lecture 1 - Mathematical Foundations for Cybersecurity", link: "/pdfs/mat5004_lecture1.pdf" },
+  ],
+ 
+
+    CHY1001: [
+      { name: "Lecture 1 - Introduction to Engineering Chemistry", link: "/pdfs/CHY1001_lecture1.pdf" },
+    ],
+    MAT1001: [
+      { name: "Lecture 1 - Calculus Basics", link: "/pdfs/MAT1001_lecture1.pdf" },
+      { name: "Lecture 2 - Laplace Transforms", link: "/pdfs/MAT1001_lecture2.pdf" },
+    ],
+    MAT2002: [
+      { name: "Lecture 1 - Discrete Mathematics and Graph Theory", link: "/pdfs/MAT2002_lecture1.pdf" },
+    ],
+    MAT3002: [
+      { name: "Lecture 1 - Applied Linear Algebra", link: "/pdfs/MAT3002_lecture1.pdf" },
+    ],
+    MAT3003: [
+      { name: "Lecture 1 - Probability, Statistics and Reliability", link: "/pdfs/MAT3003_lecture1.pdf" },
+    ],
+    PHY1001: [
+      { name: "Lecture 1 - Engineering Physics", link: "/pdfs/PHY1001_lecture1.pdf" },
+    ],
+    CSA2001: [
+      { name: "Lecture 1 - Fundamentals in AI & ML", link: "/pdfs/CSA2001_lecture1.pdf" },
+    ],
+    EEE1001: [
+      { name: "Lecture 1 - Electric Circuits and Systems", link: "/pdfs/EEE1001_lecture1.pdf" },
+    ],
+    MEE2014: [
+      { name: "Lecture 1 - Engineering Design and Modelling", link: "/pdfs/MEE2014_lecture1.pdf" },
+    ],
+    CSE1021: [
+      { name: "Lecture 1 - Introduction to Problem Solving and Programming", link: "/pdfs/CSE1021_lecture1.pdf" },
+    ],
+    CSE2006: [
+      { name: "Lecture 1 - Programming in Java", link: "/pdfs/CSE2006_lecture1.pdf" },
+    ],
+    PLA1004: [
+      { name: "Lecture 1 - Competitive Coding Practices", link: "/pdfs/PLA1004_lecture1.pdf" },
+    ],
+    PLA1006: [
+      { name: "Lecture 1 - Lateral Thinking", link: "/pdfs/PLA1006_lecture1.pdf" },
+    ],
+    SST1003: [
+      { name: "Lecture 1 - Professional Communication Skills for Engineers", link: "/pdfs/SST1003_lecture1.pdf" },
+    ],
+    SST2003: [
+      { name: "Lecture 1 - Dynamics of Workplace Communication Skills", link: "/pdfs/SST2003_lecture1.pdf" },
+    ],
+    CHY1006: [
+      { name: "Lecture 1 - Environmental Sustainability", link: "/pdfs/CHY1006_lecture1.pdf" },
+    ],
+    ENG1004: [
+      { name: "Lecture 1 - Effective Technical Communication", link: "/pdfs/ENG1004_lecture1.pdf" },
+    ],
+    ENG2005: [
+      { name: "Lecture 1 - Advanced Technical Communication", link: "/pdfs/ENG2005_lecture1.pdf" },
+    ],
+    DSN2092: [
+      { name: "Lecture 1 - Summer Industrial Internship", link: "/pdfs/DSN2092_lecture1.pdf" },
+    ],
+    DSN2093: [
+      { name: "Lecture 1 - Semester Internship", link: "/pdfs/DSN2093_lecture1.pdf" },
+    ],
+    DSN2098: [
+      { name: "Lecture 1 - Project Exhibition – I", link: "/pdfs/DSN2098_lecture1.pdf" },
+    ],
+    DSN2099: [
+      { name: "Lecture 1 - Project Exhibition – II", link: "/pdfs/DSN2099_lecture1.pdf" },
+    ],
+    DSN3099: [
+      { name: "Lecture 1 - Engineering Project in Community Service", link: "/pdfs/DSN3099_lecture1.pdf" },
+    ],
+    DSN4091: [
+      { name: "Lecture 1 - Capstone Project - Phase 1", link: "/pdfs/DSN4091_lecture1.pdf" },
+    ],
+    DSN4092: [
+      { name: "Lecture 1 - Capstone Project - Phase 2", link: "/pdfs/DSN4092_lecture1.pdf" },
+    ],
+    CHY2007: [
+      { name: "Lecture 1 - Modeling and Simulation of Biological Systems", link: "/pdfs/CHY2007_lecture1.pdf" },
+    ],
+    MAT2001: [
+      { name: "Lecture 1 - Differential and Difference Equations", link: "/pdfs/MAT2001_lecture1.pdf" },
+    ],
+    MAT2003: [
+      { name: "Lecture 1 - Applied Numerical Methods", link: "/pdfs/MAT2003_lecture1.pdf" },
+    ],
+    MAT2004: [
+      { name: "Lecture 1 - Operations Research", link: "/pdfs/MAT2004_lecture1.pdf" },
+    ],
+    MAT3004: [
+      { name: "Lecture 1 - Random Process", link: "/pdfs/MAT3004_lecture1.pdf" },
+    ],
+    MAT3008: [
+      { name: "Lecture 1 - Computational Game Theory", link: "/pdfs/MAT3008_lecture1.pdf" },
+    ],
+    PHY2011: [
+      { name: "Lecture 1 - Biophysics", link: "/pdfs/PHY2011_lecture1.pdf" },
+    ],
+    BIO1501: [
+      { name: "Lecture 1 - Bio Inspired Design", link: "/pdfs/BIO1501_lecture1.pdf" },
+    ],
+    CDS3005: [
+      { name: "Lecture 1 - Foundations of Data Science", link: "/pdfs/CDS3005_lecture1.pdf" },
+    ],
+    CSD3010: [
+      { name: "Lecture 1 - Cyber Physical Systems", link: "/pdfs/CSD3010_lecture1.pdf" },
+    ],
+    CSG2003: [
+      { name: "Lecture 1 - Human Computer Interaction", link: "/pdfs/CSG2003_lecture1.pdf" },
+    ],
+    EAC4012: [
+      { name: "Lecture 1 - Body Area Networks", link: "/pdfs/EAC4012_lecture1.pdf" },
+    ],
+    ECE4006: [
+      { name: "Lecture 1 - Sensors and IoT", link: "/pdfs/ECE4006_lecture1.pdf" },
+    ],
+    ENG3001: [
+      { name: "Lecture 1 - Introduction to Computational Linguistics", link: "/pdfs/ENG3001_lecture1.pdf" },
+    ],
+    MEA3015: [
+      { name: "Lecture 1 - Unmanned Aerial Vehicles", link: "/pdfs/MEA3015_lecture1.pdf" },
+    ],
+    BMT1013: [
+      { name: "Lecture 1 - Human Resource Management", link: "/pdfs/BMT1013_lecture1.pdf" },
+    ],
+    BMT2017: [
+      { name: "Lecture 1 - International Business", link: "/pdfs/BMT2017_lecture1.pdf" },
+    ],
+    HUM1002: [
+      { name: "Lecture 1 - Emotional Intelligence", link: "/pdfs/HUM1002_lecture1.pdf" },
+    ],
+    HUM2001: [
+      { name: "Lecture 1 - Behavioural Science", link: "/pdfs/HUM2001_lecture1.pdf" },
+    ],
+    MGT1002: [
+      { name: "Lecture 1 - Principles of Management and Organizational Behaviour", link: "/pdfs/MGT1002_lecture1.pdf" },
+    ],
+    MGT2003: [
+      { name: "Lecture 1 - Technology Entrepreneurship", link: "/pdfs/MGT2003_lecture1.pdf" },
+    ],
+    CSE0001: [
+      { name: "Lecture 1 - Digital Literacy", link: "/pdfs/CSE0001_lecture1.pdf" },
+    ],
+    CSE0002: [
+      { name: "Lecture 1 - Open Source Software (Linux Administration)", link: "/pdfs/CSE0002_lecture1.pdf" },
+    ],
+    EXC0001: [
+      { name: "Lecture 1 - Extra Curricular Activities", link: "/pdfs/EXC0001_lecture1.pdf" },
+    ],
+    HUM0002: [
+      { name: "Lecture 1 - Swachh Bharat", link: "/pdfs/HUM0002_lecture1.pdf" },
+    ],
+    HUM0003: [
+      { name: "Lecture 1 - Indian Constitution", link: "/pdfs/HUM0003_lecture1.pdf" },
+    ],
+    HUM0004: [
+      { name: "Lecture 1 - Indian Heritage", link: "/pdfs/HUM0004_lecture1.pdf" },
+    ],
+    UHV0001: [
+      { name: "Lecture 1 - Universal Human Values - I", link: "/pdfs/UHV0001_lecture1.pdf" },
+    ]
